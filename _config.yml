@@ -100,7 +100,7 @@ service-worker: true
 friends: [
  {
      {
-        title: "codeforces"
+        title: "codeforces",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     }
 ]
