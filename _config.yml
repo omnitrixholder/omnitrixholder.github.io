@@ -98,7 +98,7 @@ service-worker: true
 
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
- {
+ 
      {
         title: "codeforces",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
