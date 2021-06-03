@@ -30,5 +30,12 @@ $$
 asdsad^2
 $$
 
+$$
+\min \quad (\sum d_ef_e+P)/m\\
+s.t. \quad \sum_{(v,s)\in G}f_e-\sum_{(s,v)\in G} f_e \ge -m\\
+\quad \sum_{(v,t)\in G}f_e-\sum_{(t,v)\in G} f_e \ge m\\
+\quad \sum_{(v,u)\in G}f_e-\sum_{(u,v)\in G} f_e \ge 0\\
+\quad 0 \le f_e \le c_e\\
+\quad m>0
+$$
 
-asd
