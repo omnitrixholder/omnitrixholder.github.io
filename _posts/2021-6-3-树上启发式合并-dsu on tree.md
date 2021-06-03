@@ -8,7 +8,6 @@ header-img: img/IMG_2830.JPG
 catalog: false
 tags:
     - 图论
-    - icpc区域赛
 ---
 
 
