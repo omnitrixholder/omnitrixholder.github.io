@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      树上启发式合并
+subtitle:   简单的例题及知识点
+date:       2021-6-3
+author:     weixi zhang
+header-img: img/IMG_2830.JPG
+catalog: false
+tags:
+    - 图论
+    - icpc区域赛
+---
+
 
 
 <h3> 树上启发式合并-dsu on tree</h3>
