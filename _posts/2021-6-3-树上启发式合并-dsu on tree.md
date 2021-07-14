@@ -39,3 +39,4 @@ s.t. \quad \sum_{(v,s)\in G}f_e-\sum_{(s,v)\in G} f_e \ge -m\\
 \quad m>0
 $$
 
+<img src="C:\Users\Administrator\Desktop\TP\)7J42UKZ@[8(ZX`PGVH)8KB.png" alt="图片未加载" >
